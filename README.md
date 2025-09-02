@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">Python Practicals</h2>
+<h2>Python Practicals</h2>
 
 Overview:
 - This folder contains 40 small, beginner-friendly Python scripts.
@@ -48,6 +48,7 @@ Index:
 
 Tip:
 - If `python` runs Python 2 on your system, try `python3` instead.
+
 
 
 
