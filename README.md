@@ -1,16 +1,4 @@
-<h2 style="text-align:center;
-           font-size:2.2rem;
-           font-family:Segoe UI, Tahoma, sans-serif;
-           font-weight:bold;
-           background:linear-gradient(90deg,#ff6a00,#ee0979);
-           -webkit-background-clip:text;
-           -webkit-text-fill-color:transparent;
-           margin-top:30px;
-           letter-spacing:2px;
-           text-transform:uppercase;">
-  Python Practicals
-</h2>
-
+<h2 style="text-align: center;">Python Practicals</h2>
 
 Overview:
 - This folder contains 40 small, beginner-friendly Python scripts.
@@ -60,6 +48,7 @@ Index:
 
 Tip:
 - If `python` runs Python 2 on your system, try `python3` instead.
+
 
 
 
