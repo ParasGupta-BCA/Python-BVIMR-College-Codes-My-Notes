@@ -1,6 +1,3 @@
-# Basic Calculator Program
-# This program performs addition, subtraction, multiplication, and division
-
 def main():
     print("Basic Calculator")
     print("1. Addition")
@@ -45,6 +42,4 @@ def main():
     else:
         print("Invalid choice. Please run the program again and select a valid option.")
 
-# Run the program
-if __name__ == "__main__":
-    main()
+main()
